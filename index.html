@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Consulta de Ativos 💊</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- SDKs Firebase v8 -->
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0078d7">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('farmacia.jpg') no-repeat center center fixed;
+      background-size: cover;
+    }
+    header {
+      background: linear-gradient(90deg, rgba(0,120,215,0.6), rgba(0,170,255,0.6));
+      color: white;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(255,255,255,0.3);
+    }
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.9);
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    form {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    input {
+      flex: 1;
+      min-width: 250px;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+    button {
+      padding: 12px 20px;
+      background: linear-gradient(90deg, #0078d7, #00aaff);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.3s ease;
+    }
+    button:hover {
+      transform: scale(1.05);
+      background: linear-gradient(90deg, #005a9e, #0088cc);
+      box-shadow: 0 0 10px rgba(0,120,215,0.6);
+    }
+    .resultado {
+      margin-top: 20px;
+      padding: 15px;
+      background: #f9f9f9;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+    .campo {
+      font-weight: bold;
+      color: #0078d7;
+    }
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      padding: 10px;
+      color: #0078d7;
+      font-weight: bold;
+      background: rgba(255,255,255,0.7);
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+      border-top: 1px solid rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>💊 Consulta de Ativos</h1>
+  </header>
+  <main>
+    <!-- Busca -->
+    <form id="formBusca">
+      <input list="ativosLista" id="busca" placeholder="Digite o nome ou sinônimo do ativo">
+      <datalist id="ativosLista"></datalist>
+      <button type="submit">Buscar</button>
+      <button type="button" onclick="limpar()">Limpar</button>
+    </form>
+    <div class="resultado" id="resultado"></div>
+
+    <!-- Cadastro -->
+    <h2>Cadastrar novo ativo</h2>
+    <form id="formCadastro">
+      <input id="nome" placeholder="Nome do ativo" required>
+      <input id="sinonimos" placeholder="Sinônimos (separados por vírgula)">
+      <input id="classe" placeholder="Classe terapêutica">
+      <input id="indicacao" placeholder="Indicação">
+      <input id="mecanismo" placeholder="Mecanismo de ação">
+      <input id="formas" placeholder="Formas farmacêuticas">
+      <input id="observacoes" placeholder="Observações">
+      <button type="submit">Salvar ativo</button>
+    </form>
+  </main>
+  <footer>
+    @ndakkota
+  </footer>
+
+ <script>
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore();
+
+  let ativos = [];
+
+  // Carregar ativos do Firestore
+  db.collection("ativos").get().then(snapshot => {
+    ativos = snapshot.docs.map(doc => doc.data());
+    atualizarLista();
+  });
+
+  function atualizarLista() {
+    const lista = document.getElementById("ativosLista");
+    lista.innerHTML = "";
+    ativos.forEach(a => {
+      const option = document.createElement("option");
+      option.value = a.nome;
+      lista.appendChild(option);
+      if (a.sinonimos) {
+        a.sinonimos.forEach(s => {
+          const opt = document.createElement("option");
+          opt.value = s;
+          lista.appendChild(opt);
+        });
+      }
+    });
+  }
+
+  // 🔹 Função de busca por nome e sinônimo
+  function buscarAtivo() {
+    const termo = document.getElementById("busca").value;
+
+    db.collection("ativos")
+      .where("nome", "==", termo)
+      .get()
+      .then(snapshot => {
+        if (!snapshot.empty) {
+          snapshot.forEach(doc => mostrarResultado(doc.data()));
+        } else {
+          db.collection("ativos")
+            .where("sinonimos", "array-contains", termo)
+            .get()
+            .then(snapSinonimos => {
+              if (!snapSinonimos.empty) {
+                snapSinonimos.forEach(doc => mostrarResultado(doc.data()));
+              } else {
+                document.getElementById("resultado").innerHTML = "<p>Ativo não encontrado.</p>";
+              }
+            });
+        }
+      });
+  }
+
+  function mostrarResultado(ativo) {
+    const resultadoDiv = document.getElementById("resultado");
+    resultadoDiv.innerHTML = `
+      <p><span class="campo">Nome:</span> ${ativo.nome}</p>
+      <p><span class="campo">Sinônimos:</span> ${(ativo.sinonimos || []).join(", ")}</p>
+      <p><span class="campo">Classe Terapêutica:</span> ${ativo.classe}</p>
+      <p><span class="campo">Indicação:</span> ${ativo.indicacao}</p>
+      <p><span class="campo">Mecanismo de Ação:</span> ${ativo.mecanismo}</p>
+      <p><span class="campo">Formas Farmacêuticas:</span> ${ativo.formas}</p>
+      <p><span class="campo">Observações:</span> ${ativo.observacoes}</p>
+      <button onclick="editarAtivo('${ativo.nome}')">Editar</button>
+      <button onclick="excluirAtivo('${ativo.nome}')">Excluir</button>
+    `;
+  }
+
+  function excluirAtivo(nome) {
+    if (confirm(`Tem certeza que deseja excluir o ativo "${nome}"?`)) {
+      ativos = ativos.filter(a => a.nome !== nome);
+      localStorage.setItem("ativos", JSON.stringify(ativos));
+      atualizarLista();
+      limpar();
+      alert("Ativo excluído com sucesso!");
+    } else {
+      alert("Exclusão cancelada.");
+    }
+  }
+
+  function editarAtivo(nome) {
+    const ativo = ativos.find(a => a.nome === nome);
+    if (ativo) {
+      document.getElementById("nome").value = ativo.nome;
+      document.getElementById("sinonimos").value = (ativo.sinonimos || []).join(", ");
+      document.getElementById("classe").value = ativo.classe;
+      document.getElementById("indicacao").value = ativo.indicacao;
+      document.getElementById("mecanismo").value = ativo.mecanismo;
+      document.getElementById("formas").value = ativo.formas;
+      document.getElementById("observacoes").value = ativo.observacoes;
+    }
+  }
+
+  function limpar() {
+    document.getElementById("busca").value = "";
+    document.getElementById("resultado").innerHTML = "";
+  }
+
+  // 🔹 Corrigido: chama buscarAtivo()
+  document.getElementById("formBusca").addEventListener("submit", function(e) {
+    e.preventDefault();
+    buscarAtivo();
+  });
+
+  document.getElementById("formCadastro").addEventListener("submit", function(e) {
+    e.preventDefault();
+    const novoAtivo = {
+      nome: document.getElementById("nome").value,
+      sinonimos: (document.getElementById("sinonimos").value || "")
+               .split(",")
+               .map(s => s.trim())
+               .filter(s => s),
+      classe: document.getElementById("classe").value,
+      indicacao: document.getElementById("indicacao").value,
+      mecanismo: document.getElementById("mecanismo").value,
+      formas: document.getElementById("formas").value,
+      observacoes: document.getElementById("observacoes").value
+    };
+    db.collection("ativos").doc(novoAtivo.nome).set(novoAtivo)
+      .then(() => {
+        alert("Ativo salvo/atualizado com sucesso!");
+        ativos.push(novoAtivo);
+        atualizarLista();
+        e.target.reset();
+      })
+      .catch(error => alert("Erro ao salvar ativo: " + error));
+  });
+
+  // Registro do Service Worker
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js")
+      .then(() => console.log("Service Worker registrado"))
+      .catch(error => console.error("Erro ao registrar Service Worker:", error));
+  }
+</script>
+</body>
+</html>

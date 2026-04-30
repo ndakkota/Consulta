@@ -1,0 +1,1850 @@
+[
+  {
+"Nome de Ativos": "Atenolol",
+    "Classe Terapeutica": "Betabloqueador seletivo β1-adrenérgico",
+    "Indicação": "Cardiomiopatia hipertrófica felina\nArritmias supraventriculares\nTaquicardia\nHipertensão sistêmica\nEstenose subaórtica (cães);\nIndicações e contraindicações\n\nIndicações\nO atenolol é um dos principais betabloqueadores usados em cães e gatos.\nÉ primariamente utilizado como antiarrítmico e para o tratamento de outras doenças cardiovasculares em que seja necessária a redução do ritmo sinusal.\nEm gatos, este medicamento é comumente usado para tratamento de cardiopatias derivadas de cardiomiopatias e hipertireoidismo.\nContraindicações / precauções\nNão deve ser empregado como monoterapia nas hipertensões primárias.\nUsar com cautela em animais com doenças respiratórias, insuficiência miocárdica, distúrbios da condução cardíaca e baixa reserva cardíaca. Pacientes nefropatas, diabéticos e que tenham hipersensibilidade a algum componente da apresentação. Deve-se evitar a interrupção abrupta da administração desse medicamento em pacientes crônicos.\n\nEfeitos adversos\n\nBradicardia, hipotensão depressão, hipoglicemia, broncoconstrição.\n\nReprodução, gestação e lactação\n\nDeve ser usado com cautela em pacientes gestantes ou lactantes.\n\nSuperdosagem\n\nEm altas doses pode mascarar os sontimas associados a hipoglicemia. O uso frequente associado a agentes anestésicos pode causar depressão miocárdica.",
+    "Mecanismo de Ação": "Bloqueio seletivo dos receptores β1 cardíacos → redução da frequência cardíaca, contratilidade e débito cardíaco → diminuição do consumo de oxigênio miocárdico.",
+    "Formas Farmacêuticas": "Cápsulas\nComprimidos\nSuspensão oral\nSolução oral",
+    "Observações": "Ajustar dose em pacientes com insuficiência cardíaca descompensada.  \nManipulação: Fármaco estável em pH levemente ácido a neutro.\nPode apresentar sabor amargo → importante flavorização em suspensões veterinárias.\nBoa estabilidade em cápsulas gelatinosas.\nEm suspensão oral, utilizar agente suspensor adequado (ex: CMC ou veículo estruturado).\nSensível à umidade → armazenar em recipiente bem vedado.\nPode causar bradicardia e hipotensão.\nDesmame gradual é recomendado."
+  },
+  {
+    "Nome de Ativos": "Azul de metileno",
+    "Classe Terapeutica": "Agente redutor / Antídoto / Antisséptico",
+    "Indicação": "Metemoglobinemia\nIntoxicação por nitratos/nitritos\nUso tópico antisséptico\nAlgumas infecções urinárias (uso histórico)",
+    "Mecanismo de Ação": "Age como aceptor de elétrons, reduzindo metemoglobina a hemoglobina funcional.",
+    "Formas Farmacêuticas": "Solução oral\nSolução injetável\nSolução tópica",
+    "Observações": "Dose excessiva pode causar hemólise. \nManipulação: Altamente corante → risco de contaminação cruzada (manipular separado).\nFotossensível → frasco âmbar obrigatório.\nPode oxidar → evitar exposição prolongada ao ar.\nAtenção à concentração correta (erro pode causar toxicidade)\nMancha encapsuladoras e utensílios.\nContraindicado em deficiência de G6PD.\nMancha intensamente tecidos e superfícies."
+  },
+  {
+    "Nome de Ativos": "Artesunato",
+    "Classe Terapeutica": "Antimalárico / Antiprotozoário",
+    "Indicação": "Babesiose (uso off-label)\nHemoparasitoses",
+    "Mecanismo de Ação": "Forma radicais livres dentro do parasito, promovendo dano oxidativo e morte celular.",
+    "Formas Farmacêuticas": "Cápsulas\nSuspensão oral",
+    "Observações": "Uso geralmente associado a outros antiprotozoários. Manipulação: Sensível à umidade e temperatura.\nPreferir cápsulas ao invés de suspensão quando possível.\nPode exigir antioxidante na formulação.\nArmazenar em frasco hermético, protegido da luz.\nAvaliar compatibilidade com excipientes alcalinos.\nMonitorar função hepática."
+  },
+  {
+    "Nome de Ativos": "Aveia coloidal",
+    "Classe Terapeutica": "Dermoprotetor / Calmante cutâneo",
+    "Indicação": "Dermatites alérgicas\nPrurido\nPele ressecada\nDermatite atópica",
+    "Mecanismo de Ação": "Forma película protetora sobre a pele, reduz inflamação e prurido por ação calmante e antioxidante",
+    "Formas Farmacêuticas": "Shampoo\nLoção\nSpray\nCreme\nGel",
+    "Observações": "Muito utilizada em dermatologia veterinária. Manipulação: Deve ser bem dispersa no veículo para evitar grumos.\nCompatível com bases dermatológicas não iônicas.\nPode alterar viscosidade da formulação.\nEstável em formulações aquosas quando bem conservada.\nNecessário conservante em formulações aquosas.\nCompatível com corticoides tópicos"
+  },
+  {
+    "Nome de Ativos": "Agaricus blazer",
+    "Classe Terapeutica": "Imunomodulador / Fitoterápico",
+    "Indicação": "Suporte imunológico\nPacientes oncológicos\nDoenças crônicas",
+    "Mecanismo de Ação": "Rico em β-glucanas → estimula macrófagos, linfócitos T e NK.",
+    "Formas Farmacêuticas": "Cápsulas\nPó\nSachês",
+    "Observações": "Uso como terapia adjuvante. Manipulação: Produto higroscópico dependendo do extrato → atenção à umidade.\nPadronização do extrato (β-glucanas) importante para reprodutibilidade.\nPode ter odor característico → cápsulas são preferíveis.\nEvitar exposição prolongada ao calor.\nEvidência científica variável."
+  },
+  {
+    "Nome de Ativos": "Ácido tranexâmico",
+    "Classe Terapeutica": "Antifibrinolítico",
+    "Indicação": "Hemorragias\nCirurgias\nCoagulopatias\nEpistaxe",
+    "Mecanismo de Ação": "Inibe ativação do plasminogênio → reduz fibrinólise → estabiliza coágulo.",
+    "Formas Farmacêuticas": "Cápsulas\nSolução oral\nSolução injetável",
+    "Observações": "Usar com cautela em pacientes com risco trombótico. Manipulação: Boa estabilidade em formulações sólidas.\nSolúvel em água → adequado para soluções orais.\npH ideal levemente ácido.\nEvitar associação com bases muito alcalinas.\nEstável quando protegido da luz e umidade.\nPode causar distúrbios gastrointestinais"
+  },
+  {
+    "Nome de Ativos": "Alantoína",
+    "Classe Terapeutica": "Cicatrizante / Epitelizante",
+    "Indicação": "Feridas\nDermatites\nÚlceras cutâneas\nPós-cirúrgico tópico\nPode causar distúrbios gastrointestinais",
+    "Mecanismo de Ação": "Estimula proliferação celular e regeneração epitelial.",
+    "Formas Farmacêuticas": "Pomada\nCreme\nGel\nSpray",
+    "Observações": "Excelente associação com antibióticos tópicos.\nAlta segurança"
+  },
+  {
+    "Nome de Ativos": "Ácido alfa lipoico",
+    "Classe Terapeutica": "Antioxidante",
+    "Indicação": "Neuropatias\nPacientes diabéticos\nDoenças hepáticas\nEnvelhecimento celular",
+    "Mecanismo de Ação": "Atua como cofator mitocondrial e antioxidante universal (atua em meio aquoso e lipídico).",
+    "Formas Farmacêuticas": "Cápsulas\nComprimidos\nSachês",
+    "Observações": "Cuidado em gatos (sensibilidade maior).\n\nPode causar hipoglicemia."
+  },
+  {
+    "Nome de Ativos": "Ashwagangha Ginseng",
+    "Classe Terapeutica": "Adaptógeno / Fitoterápico",
+    "Indicação": "Estresse\nAnsiedade\nFadiga\nSuporte imunológico",
+    "Mecanismo de Ação": "Modulação do eixo hipotálamo-hipófise-adrenal; ação antioxidante e imunomoduladora.",
+    "Formas Farmacêuticas": "Cápsulas\nPó\nSachês",
+    "Observações": "Uso cauteloso em pacientes hipertensos.\n\nPode interagir com sedativos."
+  },
+  {
+    "Nome de Ativos": "Ácido acetil salicílico",
+    "Classe Terapeutica": "AINE / Antiagregante plaquetário",
+    "Indicação": "Dor leve a moderada\nInflamação\nAntiagregante (especialmente em gatos)",
+    "Mecanismo de Ação": "Inibe irreversivelmente COX-1 e COX-2 → redução de prostaglandinas e tromboxano.",
+    "Formas Farmacêuticas": "Cápsulas\nComprimidos\nSuspensão oral",
+    "Observações": "Gatos metabolizam lentamente → intervalo maior.\nRisco de gastrite e úlcera."
+  },
+  {
+    "Nome de Ativos": "Ácido salicílico",
+    "Classe Terapeutica": "Queratolítico / Antisséptico",
+    "Indicação": "Seborreia\nDermatite\nHiperqueratose\nOtites",
+    "Mecanismo de Ação": "Promove descamação do estrato córneo por dissolução da queratina",
+    "Formas Farmacêuticas": "Shampoo\nLoção\nSolução otológica",
+    "Observações": "Evitar uso excessivo em pele lesionada.\nPode causar irritação."
+  },
+  {
+    "Nome de Ativos": "Ácido fólico",
+    "Classe Terapeutica": "Vitamina (B9)",
+    "Indicação": "Anemia\nDoenças intestinais\nGestação\nDeficiência nutricional",
+    "Mecanismo de Ação": "Participa da síntese de DNA e divisão celular",
+    "Formas Farmacêuticas": "Cápsulas\nComprimidos\nSolução oral",
+    "Observações": "Importante em insuficiência pancreática exócrina Manipulação:"
+  },
+  {
+    "Nome de Ativos": "Ácido cítrico",
+    "Classe Terapeutica": "Acidificante / Regulador de pH",
+    "Indicação": "Acidificante urinário\nAjuste de pH em formulações\nConservante",
+    "Mecanismo de Ação": "Reduz o pH por liberação de íons hidrogênio",
+    "Formas Farmacêuticas": "Pó\nSolução\nVeículos manipulados",
+    "Observações": "Muito utilizado como excipiente técnico.\nPode irritar mucosas em alta concentração"
+  },
+  {
+    "Nome de Ativos": "Ácido nicotínico",
+    "Classe Terapeutica": "Vitamina / Suplemento",
+    "Indicação": "Deficiências nutricionais, suporte metabólico",
+    "Mecanismo de Ação": "Cofator enzimático (NAD/NADP), participa do metabolismo energético",
+    "Formas Farmacêuticas": "Comprimidos, soluções orais",
+    "Observações": "Pode causar anorexia, vômito e aumento de enzimas hepáticas"
+  },
+  {
+    "Nome de Ativos": "Aminofilina",
+    "Classe Terapeutica": "Broncodilatador (metilxantina)",
+    "Indicação": "Asma felina, doenças inflamatórias das vias aéreas",
+    "Mecanismo de Ação": "Conversão em teofilina → bloqueio de receptores de adenosina, relaxamento da musculatura brônquica",
+    "Formas Farmacêuticas": "Cápsulas, solução injetável",
+    "Observações": "Índice terapêutico estreito, exige monitoramento"
+  },
+  {
+    "Nome de Ativos": "Azatioprina",
+    "Classe Terapeutica": "Imunossupressor",
+    "Indicação": "Doenças autoimunes (AIHA, poliartrite, DII, lúpus)",
+    "Mecanismo de Ação": "Antagonista das purinas → inibe síntese de DNA/RNA e proliferação de linfócitos",
+    "Formas Farmacêuticas": "Cápsulas",
+    "Observações": "Uso limitado em gatos (toxicidade medular)"
+  },
+  {
+    "Nome de Ativos": "Alfa cetoleucina de cálcio",
+    "Classe Terapeutica": "Suplemento nutricional (cetoanálogos)",
+    "Indicação": "Insuficiência renal crônica, prevenção da desnutrição",
+    "Mecanismo de Ação": "Captura nitrogênio circulante e se converte em aminoácido essencial",
+    "Formas Farmacêuticas": "Cápsulas",
+    "Observações": "Adjuvante em dietas hipoproteicas"
+  },
+  {
+    "Nome de Ativos": "Alfa cetovalina de cálcio",
+    "Classe Terapeutica": "Suplemento nutricional (cetoanálogos)",
+    "Indicação": "Manejo da insuficiência renal crônica",
+    "Mecanismo de Ação": "Similar à leucina: precursor de aminoácidos essenciais",
+    "Formas Farmacêuticas": "Cápsulas",
+    "Observações": "Reduz acúmulo de ureia e fosfato"
+  },
+  {
+    "Nome de Ativos": "Alfa cetofenilalanina",
+    "Classe Terapeutica": "Suplemento nutricional (cetoanálogos)",
+    "Indicação": "Insuficiência renal crônica, suporte nutricional",
+    "Mecanismo de Ação": "Captura nitrogênio e se converte em fenilalanina",
+    "Formas Farmacêuticas": "Cápsulas",
+    "Observações": "Auxilia em dietas hipoproteicas"
+  },
+  {
+    "Nome de Ativos": "Albendazol",
+    "Classe Terapeutica": "Anti-helmíntico (benzimidazólico)",
+    "Indicação": "Nematódeos, cestódeos, trematódeos, giárdia",
+    "Mecanismo de Ação": "Inibe polimerização da tubulina → morte do parasita",
+    "Formas Farmacêuticas": "Suspensão oral, cápsulas",
+    "Observações": "Uso em cães, bovinos, ovinos; pode causar efeitos gastrointestinais"
+  },
+  {
+    "Nome de Ativos": "Alopurinol",
+    "Classe Terapeutica": "Antiparasitário / Antileishmania",
+    "Indicação": "Leishmaniose visceral canina",
+    "Mecanismo de Ação": "Inibidor da xantina oxidase; interfere no metabolismo do parasita",
+    "Formas Farmacêuticas": "Cápsulas",
+    "Observações": "Usado em associação com miltefosina ou antimoniais"
+  },
+  {
+    "Nome de Ativos": "Alcachofra",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Suporte hepático, dislipidemias",
+    "Mecanismo de Ação": "Estimula fluxo biliar, efeito hepatoprotetor e diurético",
+    "Formas Farmacêuticas": "Cápsulas, Suspensão, Pasta oral, biscoito, molho/calda",
+    "Observações": "Evitar versões em conserva (alto sódio)"
+  },
+  {
+    "Nome de Ativos": "Ácido glutâmico",
+    "Classe Terapeutica": "Aminoácido / Suplemento",
+    "Indicação": "Suporte nutricional, rações animais",
+    "Mecanismo de Ação": "Participa do metabolismo proteico e energético",
+    "Formas Farmacêuticas": "Pó, pasta oral, suspensão",
+    "Observações": "Usado em equinos, bovinos, aves e cães"
+  },
+  {
+    "Nome de Ativos": "Ácido ursodesoxicolico",
+    "Classe Terapeutica": "Hepatoprotetor / Colerético",
+    "Indicação": "Doenças hepáticas crônicas, cálculos biliares",
+    "Mecanismo de Ação": "Ácido biliar hidrofílico → melhora fluxo biliar, efeito imunomodulador",
+    "Formas Farmacêuticas": "",
+    "Observações": "Dose: 10–15 mg/kg em cães e gatos . Não deve ser utilizado durante a gestação. Importante destacar que o acompanhamento do tratamento \ndeve ser feito por médico veterinário."
+  },
+  {
+    "Nome de Ativos": "Ambroxol",
+    "Classe Terapeutica": "Mucolítico / Expectorante",
+    "Indicação": "Doenças respiratórias com excesso de muco; Utilizado como adjuvante no tratamento de bronquites e penumonias.\n\nNão deve ser utilizado como único medicamento em infecções.",
+    "Mecanismo de Ação": "Aumenta secreção serosa e reduz viscosidade do muco",
+    "Formas Farmacêuticas": "Administração: Via Oral; Xarope, suspensão, pasta, biscoito, calda doce, molho salgado",
+    "Observações": "Metabólito ativo da bromexina"
+  },
+  {
+    "Nome de Ativos": "Afoxolaner",
+    "Classe Terapeutica": "Antiparasitário (isoxazolina)",
+    "Indicação": "Pulgas, carrapatos, sarna em cães",
+    "Mecanismo de Ação": "Bloqueio dos canais de cloro mediados por GABA nos parasitas",
+    "Formas Farmacêuticas": "",
+    "Observações": "Não indicado para gatos"
+  },
+  {
+    "Nome de Ativos": "Amiodarona",
+    "Classe Terapeutica": "Antiarrítmico (classe III)",
+    "Indicação": "Taquicardias ventriculares refratárias",
+    "Mecanismo de Ação": "Bloqueio de canais de potássio, prolonga potencial de ação",
+    "Formas Farmacêuticas": "",
+    "Observações": "Efeitos adversos graves (hepatotoxicidade, fibrose pulmonar)"
+  },
+  {
+    "Nome de Ativos": "Ácido glicirrizico",
+    "Classe Terapeutica": "Fitoterápico / Anti-inflamatório",
+    "Indicação": "Dermatites, fotodermatites, suporte gastrointestinal",
+    "Mecanismo de Ação": "Ação semelhante a corticoides, anti-inflamatória e antialérgica",
+    "Formas Farmacêuticas": "",
+    "Observações": "Uso tópico e oral; menos potente que corticoides"
+  },
+  {
+    "Nome de Ativos": "Anlodipina",
+    "Classe Terapeutica": "Anti-hipertensivo (bloqueador de canais de cálcio)",
+    "Indicação": "Hipertensão arterial em cães e gatos; insuficiência valvar mitral",
+    "Mecanismo de Ação": "Bloqueio dos canais de cálcio na musculatura lisa vascular → vasodilatação",
+    "Formas Farmacêuticas": "",
+    "Observações": "Fármaco de escolha em gatos; contraindicado em prenhez e ICC grave"
+  },
+  {
+    "Nome de Ativos": "Apigenina",
+    "Classe Terapeutica": "Flavonoide / Fitoterápico",
+    "Indicação": "Ansiedade, estresse, suporte antioxidante, proteção renal e pancreática",
+    "Mecanismo de Ação": "Ação antioxidante, anti-inflamatória e ansiolítica",
+    "Formas Farmacêuticas": "",
+    "Observações": "Presente em camomila, salsa, aipo; potencial neuroprotetor"
+  },
+  {
+    "Nome de Ativos": "Brometo de potássio",
+    "Classe Terapeutica": "Anticonvulsivante",
+    "Indicação": "Epilepsia idiopática e convulsões refratárias em cães",
+    "Mecanismo de Ação": "Compete com íons cloro nos canais neuronais → hiperpolarização e estabilização da membrana",
+    "Formas Farmacêuticas": "",
+    "Observações": "Mais seguro em cães; gatos apresentam maior risco de efeitos adversos"
+  },
+  {
+    "Nome de Ativos": "Bacopa monieri",
+    "Classe Terapeutica": "Fitoterápico / Nootrópico",
+    "Indicação": "Suporte cognitivo, redução de estresse, neuroproteção",
+    "Mecanismo de Ação": "Aumenta atividade antioxidante e modula neurotransmissores",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usada na medicina ayurvédica; potencial ansiolítico e neuroprotetor em pets"
+  },
+  {
+    "Nome de Ativos": "Blueberry",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Antioxidante, suporte imunológico, prevenção de envelhecimento celular",
+    "Mecanismo de Ação": "Rico em polifenóis e vitaminas; neutraliza radicais livres",
+    "Formas Farmacêuticas": "",
+    "Observações": "Seguro para cães em pequenas quantidades; evitar excesso"
+  },
+  {
+    "Nome de Ativos": "Biointestil",
+    "Classe Terapeutica": "Fitoterápico / Probiótico natural",
+    "Indicação": "Saúde gastrointestinal, disbiose, síndrome do intestino irritável",
+    "Mecanismo de Ação": "Óleo essencial de Cymbopogon martinii + fibra de gengibre → equilíbrio da microbiota, efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": "Melhora motilidade intestinal, reduz gases e náuseas; uso contínuo recomendado"
+  },
+  {
+    "Nome de Ativos": "Bergavit",
+    "Classe Terapeutica": "Fitoterápico / Suplemento",
+    "Indicação": "Dislipidemias, suporte cardiovascular",
+    "Mecanismo de Ação": "Rico em flavonoides → modula metabolismo lipídico e colesterol",
+    "Formas Farmacêuticas": "",
+    "Observações": "Rico em flavonoides → modula metabolismo lipídico e colesterol"
+  },
+  {
+    "Nome de Ativos": "Berberina",
+    "Classe Terapeutica": "Fitoterápico / Alcaloide",
+    "Indicação": "Diabetes, dislipidemias, suporte gastrointestinal",
+    "Mecanismo de Ação": "Ativa AMPK → melhora metabolismo glicídico e lipídico",
+    "Formas Farmacêuticas": "",
+    "Observações": "Potencial hepatoprotetor; cuidado com interações medicamentosas"
+  },
+  {
+    "Nome de Ativos": "Bitartarato de colina",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Suporte hepático, função cognitiva",
+    "Mecanismo de Ação": "Precursor da acetilcolina; participa do metabolismo lipídico",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em cães e equinos; pode melhorar memória e função hepática"
+  },
+  {
+    "Nome de Ativos": "Bromoprida",
+    "Classe Terapeutica": "Procinetico / Antiemético",
+    "Indicação": "Náuseas, vômitos, refluxo gastroesofágico",
+    "Mecanismo de Ação": "Antagonista dopaminérgico → aumenta motilidade GI",
+    "Formas Farmacêuticas": "",
+    "Observações": "Similar à metoclopramida; menos usada em veterinária"
+  },
+  {
+    "Nome de Ativos": "Betametasona",
+    "Classe Terapeutica": "Corticoide (anti-inflamatório)",
+    "Indicação": "Dermatites, alergias, doenças autoimunes",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": "Uso restrito e controlado; risco de imunossupressão"
+  },
+  {
+    "Nome de Ativos": "Betanecol",
+    "Classe Terapeutica": "Agente colinérgico (parasimpaticomimético)",
+    "Indicação": "Atonia vesical, retenção urinária",
+    "Mecanismo de Ação": "Agonista muscarínico → estimula contração da bexiga",
+    "Formas Farmacêuticas": "",
+    "Observações": "Contraindicado em obstruções mecânicas; uso limitado em cães"
+  },
+  {
+    "Nome de Ativos": "BHT",
+    "Classe Terapeutica": "Antioxidante / Conservante",
+    "Indicação": "Prevenção da oxidação de rações e suplementos",
+    "Mecanismo de Ação": "Neutraliza radicais livres e estabiliza lipídios",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado mais como aditivo alimentar; segurança depende da dose"
+  },
+  {
+    "Nome de Ativos": "Betacaroteno",
+    "Classe Terapeutica": "Suplemento nutricional / Antioxidante",
+    "Indicação": "Suporte imunológico, saúde ocular, prevenção de envelhecimento celular",
+    "Mecanismo de Ação": "Precursor da vitamina A; antioxidante",
+    "Formas Farmacêuticas": "",
+    "Observações": "Seguro em cães e equinos; cuidado com excesso (hipervitaminose A)"
+  },
+  {
+    "Nome de Ativos": "Boswellia Serrata",
+    "Classe Terapeutica": "Fitoterápico / Anti-inflamatório",
+    "Indicação": "Osteoartrite, inflamações crônicas, suporte articular",
+    "Mecanismo de Ação": "Inibe leucotrienos → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": "Alternativa natural aos AINEs; bem tolerada em cães"
+  },
+  {
+    "Nome de Ativos": "Bio arct pet",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Suporte energético, antioxidante, melhora da vitalidade",
+    "Mecanismo de Ação": "Extrato de Arcticum lappa (bardana) → ação antioxidante e metabólica",
+    "Formas Farmacêuticas": "",
+    "Observações": "Indicado para cães e gatos; melhora disposição e imunidade"
+  },
+  {
+    "Nome de Ativos": "Bezafibrato",
+    "Classe Terapeutica": "Hipolipemiante (fibrato)",
+    "Indicação": "Dislipidemias, hipertrigliceridemia",
+    "Mecanismo de Ação": "Ativa PPAR-α → aumenta oxidação de ácidos graxos",
+    "Formas Farmacêuticas": "",
+    "Observações": "Uso veterinário pouco comum; mais em humanos, mas pode ser adjuvante"
+  },
+  {
+    "Nome de Ativos": "Benazepril",
+    "Classe Terapeutica": "Anti-hipertensivo (IECA)",
+    "Indicação": "Insuficiência cardíaca congestiva, proteinúria, hipertensão",
+    "Mecanismo de Ação": "Inibe enzima conversora de angiotensina → vasodilatação e redução da pressão",
+    "Formas Farmacêuticas": "",
+    "Observações": "Muito usado em cães e gatos; monitorar função renal"
+  },
+  {
+    "Nome de Ativos": "Betaína",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Suporte hepático, metabolismo de homocisteína",
+    "Mecanismo de Ação": "Doa grupos metil → participa da síntese de metionina",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usada em equinos e cães; pode melhorar desempenho físico"
+  },
+  {
+    "Nome de Ativos": "Citicolina",
+    "Classe Terapeutica": "Suplemento neuroprotetor",
+    "Indicação": "Suporte cognitivo, doenças neurológicas",
+    "Mecanismo de Ação": "Precursor da fosfatidilcolina → melhora síntese de membranas neuronais",
+    "Formas Farmacêuticas": "",
+    "Observações": "Potencial uso em cães idosos com disfunção cognitiva"
+  },
+  {
+    "Nome de Ativos": "Colostro",
+    "Classe Terapeutica": "Suplemento imunológico",
+    "Indicação": "Imunidade neonatal, suporte gastrointestinal",
+    "Mecanismo de Ação": "Rico em imunoglobulinas, lactoferrina e fatores de crescimento",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em cães e gatos filhotes; também em adultos para suporte imunológico"
+  },
+  {
+    "Nome de Ativos": "Cetoconazol",
+    "Classe Terapeutica": "Antifúngico (imidazólico)",
+    "Indicação": "Dermatofitoses, micoses sistêmicas",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": "Pode causar hepatotoxicidade; uso controlado em cães"
+  },
+  {
+    "Nome de Ativos": "Carprofeno",
+    "Classe Terapeutica": "AINE (anti-inflamatório não esteroide)",
+    "Indicação": "Dor e inflamação em osteoartrite, pós-operatório",
+    "Mecanismo de Ação": "Inibe COX-2 → reduz prostaglandinas inflamatórias",
+    "Formas Farmacêuticas": "",
+    "Observações": "Muito usado em cães; contraindicado em gatos"
+  },
+  {
+    "Nome de Ativos": "Coriolis",
+    "Classe Terapeutica": "Fitoterápico / Imunomodulador",
+    "Indicação": "Suporte imunológico, oncologia veterinária",
+    "Mecanismo de Ação": "Polissacarídeos (PSK, PSP) → estimulam resposta imune",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado como adjuvante em cães com neoplasias"
+  },
+  {
+    "Nome de Ativos": "Clopidogrel",
+    "Classe Terapeutica": "Antiagregante plaquetário",
+    "Indicação": "Prevenção de trombose, tromboembolismo arterial",
+    "Mecanismo de Ação": "Inibe irreversivelmente o receptor P2Y12 de ADP nas plaquetas",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em cães e gatos com risco trombótico; monitorar sangramentos"
+  },
+  {
+    "Nome de Ativos": "Cloreto de sódio refinado",
+    "Classe Terapeutica": "Suplemento eletrolítico",
+    "Indicação": "Reposição hidroeletrolítica, suporte em desidratação",
+    "Mecanismo de Ação": "Fornece íons Na⁺ e Cl⁻ essenciais para equilíbrio osmótico",
+    "Formas Farmacêuticas": "",
+    "Observações": "Em excesso pode causar hipertensão e retenção hídrica"
+  },
+  {
+    "Nome de Ativos": "Carboximetilcelulose",
+    "Classe Terapeutica": "Excipiente / Espessante",
+    "Indicação": "Veículo em formulações, estabilizante",
+    "Mecanismo de Ação": "Polímero hidrossolúvel que aumenta viscosidade",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em suspensões e colírios; não tem ação farmacológica direta"
+  },
+  {
+    "Nome de Ativos": "Curcumina",
+    "Classe Terapeutica": "Fitoterápico / Anti-inflamatório",
+    "Indicação": "Osteoartrite, inflamações crônicas, suporte antioxidante",
+    "Mecanismo de Ação": "Inibe NF-κB e COX-2 → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": "Baixa biodisponibilidade; pode ser combinada com piperina"
+  },
+  {
+    "Nome de Ativos": "Cloreto de magnésio",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Hipomagnesemia, suporte muscular e neurológico",
+    "Mecanismo de Ação": "Fornece íons Mg²⁺ essenciais para enzimas e contração muscular",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em bovinos, equinos e cães; excesso pode causar diarreia"
+  },
+  {
+    "Nome de Ativos": "Cordia Ecalyculata 20:1 Roxo",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Obesidade, suporte metabólico",
+    "Mecanismo de Ação": "Rico em cafeína e polifenóis → efeito termogênico e antioxidante",
+    "Formas Farmacêuticas": "",
+    "Observações": "Conhecida como “erva roxa”; usada em humanos e pets como adjuvante"
+  },
+  {
+    "Nome de Ativos": "Colágeno Hidrolisado",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Saúde articular, pele, tendões",
+    "Mecanismo de Ação": "Fornece peptídeos de colágeno → estimula síntese de matriz extracelular",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em cães idosos com osteoartrite; melhora mobilidade"
+  },
+  {
+    "Nome de Ativos": "Citrato de Potássio",
+    "Classe Terapeutica": "Suplemento mineral / Alcalinizante urinário",
+    "Indicação": "Urolitíase por oxalato ou urato, acidose metabólica",
+    "Mecanismo de Ação": "Fornece íons K⁺ e citrato → alcaliniza urina e corrige acidose",
+    "Formas Farmacêuticas": "",
+    "Observações": "Muito usado em cães com cálculos urinários recorrentes"
+  },
+  {
+    "Nome de Ativos": "Ciproheptadina HCL",
+    "Classe Terapeutica": "Anti-histamínico / Antisserotonínico",
+    "Indicação": "Prurido, alergias, anorexia em gatos",
+    "Mecanismo de Ação": "Antagonista de receptores H1 e serotonina",
+    "Formas Farmacêuticas": "",
+    "Observações": "Usado em gatos para estimular apetite"
+  },
+  {
+    "Nome de Ativos": "Condroitina",
+    "Classe Terapeutica": "Suplemento nutricional / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Estimula síntese de matriz cartilaginosa",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cramberry",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Urolitíase, prevenção de infecção urinária",
+    "Mecanismo de Ação": "Impede adesão bacteriana ao epitélio urinário",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cordyceps Sinensis",
+    "Classe Terapeutica": "Fitoterápico / Adaptógeno",
+    "Indicação": "Suporte imunológico, fadiga, performance",
+    "Mecanismo de Ação": "Modula resposta imune e aumenta produção de ATP",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cloreto de sódio",
+    "Classe Terapeutica": "Suplemento eletrolítico",
+    "Indicação": "Reposição hidroeletrolítica, suporte em desidratação",
+    "Mecanismo de Ação": "Fornece íons Na⁺ e Cl⁻ essenciais para equilíbrio osmótico",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Clorella Po",
+    "Classe Terapeutica": "Fitoterápico / Suplemento",
+    "Indicação": "Desintoxicação, suporte imunológico",
+    "Mecanismo de Ação": "Rica em clorofila e proteínas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Clobetasol Propionato",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Lesões dermatológicas graves",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ciclosporina A",
+    "Classe Terapeutica": "Imunossupressor",
+    "Indicação": "Atopia canina, doenças autoimunes",
+    "Mecanismo de Ação": "Inibe calcineurina → bloqueia ativação de linfócitos T",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Colágeno tipo II",
+    "Classe Terapeutica": "Suplemento nutricional / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Fornece colágeno nativo para cartilagem",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Citrato de sódio",
+    "Classe Terapeutica": "Suplemento mineral / Alcalinizante urinário",
+    "Indicação": "Urolitíase, acidose metabólica",
+    "Mecanismo de Ação": "Fornece íons Na⁺ e citrato → alcaliniza urina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Crocus sativus",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Ansiedade, depressão, suporte cognitivo",
+    "Mecanismo de Ação": "Rico em safranal e crocina → modula neurotransmissores",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "CoreBiome® (Tributirina)",
+    "Classe Terapeutica": "Suplemento nutricional / Pós-biótico",
+    "Indicação": "Saúde intestinal, disbiose, suporte imunológico",
+    "Mecanismo de Ação": "Libera butirato no cólon → melhora microbiota",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cetoprofeno",
+    "Classe Terapeutica": "AINE (anti-inflamatório não esteroide)",
+    "Indicação": "Dor, inflamação, pós-operatório",
+    "Mecanismo de Ação": "Inibe COX-1 e COX-2 → reduz prostaglandinas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Coenzima Q10",
+    "Classe Terapeutica": "Suplemento antioxidante",
+    "Indicação": "Cardiopatias, suporte energético celular",
+    "Mecanismo de Ação": "Cofator da cadeia respiratória mitocondrial",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Clotrimazol",
+    "Classe Terapeutica": "Antifúngico tópico",
+    "Indicação": "Dermatofitoses, candidíase cutânea",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cobre Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de cobre, suporte hematológico",
+    "Mecanismo de Ação": "Fornece íons Cu²⁺ quelados → melhor absorção",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cálcio Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Hipocalcemia, suporte ósseo",
+    "Mecanismo de Ação": "Fornece cálcio ligado a aminoácidos → alta biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cromo Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Obesidade, resistência insulínica",
+    "Mecanismo de Ação": "Potencializa ação da insulina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ciclopiroxolamina",
+    "Classe Terapeutica": "Antifúngico tópico",
+    "Indicação": "Dermatofitoses, micoses superficiais",
+    "Mecanismo de Ação": "Inibe transporte de íons essenciais nos fungos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Cloreto de Potássio",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Hipocalemia, suporte eletrolítico",
+    "Mecanismo de Ação": "Fornece íons K⁺ essenciais",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Chá Verde",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Obesidade, suporte metabólico, antioxidante",
+    "Mecanismo de Ação": "Rico em catequinas → efeito termogênico e antioxidante",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Curcuvet",
+    "Classe Terapeutica": "Fitoterápico / Anti-inflamatório",
+    "Indicação": "Osteoartrite, inflamações crônicas",
+    "Mecanismo de Ação": "Curcumina complexada → maior biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "DL - Alfa Hidroxiometionina",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Deficiência de metionina, suporte proteico",
+    "Mecanismo de Ação": "Fonte de metionina hidroxilada → participa da síntese proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Dente de leão",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Suporte hepático, diurético",
+    "Mecanismo de Ação": "Estimula fluxo biliar e diurese",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Diclazuril",
+    "Classe Terapeutica": "Anticoccidiano",
+    "Indicação": "Coccidiose em aves e coelhos",
+    "Mecanismo de Ação": "Inibe desenvolvimento dos protozoários coccídeos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "DL- metionina",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Deficiência de metionina, suporte hepático",
+    "Mecanismo de Ação": "Aminoácido essencial → participa da síntese proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Domperidona",
+    "Classe Terapeutica": "Procinetico / Antiemético",
+    "Indicação": "Náuseas, vômitos, refluxo gastroesofágico",
+    "Mecanismo de Ação": "Antagonista dopaminérgico → aumenta motilidade GI",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Deflazacort",
+    "Classe Terapeutica": "Corticoide (anti-inflamatório)",
+    "Indicação": "Doenças autoimunes, inflamações crônicas",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Desonida",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites leves a moderadas",
+    "Mecanismo de Ação": "Modula expressão gênica → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "DL-Alfa Cetoisoleucina",
+    "Classe Terapeutica": "Suplemento nutricional (cetoanálogos)",
+    "Indicação": "Insuficiência renal crônica",
+    "Mecanismo de Ação": "Captura nitrogênio circulante e se converte em isoleucina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "D-Manose",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Prevenção de infecção urinária",
+    "Mecanismo de Ação": "Impede adesão de E. coli ao epitélio urinário",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Dexametasona Acetato uso externo",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites graves, inflamações cutâneas",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Desmopet",
+    "Classe Terapeutica": "Hormônio sintético (análoga da vasopressina)",
+    "Indicação": "Diabetes insipidus, distúrbios hemorrágicos",
+    "Mecanismo de Ação": "Estimula receptores V2 → aumenta reabsorção de água renal",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Diaceireina",
+    "Classe Terapeutica": "Anti-inflamatório / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Inibe IL-1β → reduz inflamação articular",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Dexametasona base Uso interno",
+    "Classe Terapeutica": "Corticoide sistêmico",
+    "Indicação": "Doenças autoimunes, inflamações graves",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Extrato de papaia",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Suporte digestivo, antioxidante",
+    "Mecanismo de Ação": "Rico em papaína → auxilia digestão proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Espironolactona",
+    "Classe Terapeutica": "Diurético poupador de potássio",
+    "Indicação": "ICC, hipertensão, ascite",
+    "Mecanismo de Ação": "Antagonista da aldosterona → promove diurese",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Espinheira santa",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Gastrite, úlceras gástricas",
+    "Mecanismo de Ação": "Reduz secreção ácida e protege mucosa gástrica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Edta",
+    "Classe Terapeutica": "Quelante",
+    "Indicação": "Intoxicação por metais pesados",
+    "Mecanismo de Ação": "Forma complexos solúveis com metais",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Enalapril",
+    "Classe Terapeutica": "Anti-hipertensivo (IECA)",
+    "Indicação": "ICC, hipertensão, proteinúria",
+    "Mecanismo de Ação": "Inibe enzima conversora de angiotensina → vasodilatação e redução da pressão",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Epigalocatequina",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Obesidade, suporte metabólico, antioxidante",
+    "Mecanismo de Ação": "Catequina → efeito antioxidante e termogênico",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Estearato de Magnésio",
+    "Classe Terapeutica": "Excipiente",
+    "Indicação": "Veículo em formulações, estabilizante",
+    "Mecanismo de Ação": "Sal de magnésio usado como lubrificante em comprimidos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Yucca",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Redução de odor fecal, suporte digestivo",
+    "Mecanismo de Ação": "Saponinas → efeito anti-inflamatório e digestivo",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Echinacea",
+    "Classe Terapeutica": "Fitoterápico / Imunomodulador",
+    "Indicação": "Suporte imunológico, infecções respiratórias",
+    "Mecanismo de Ação": "Estimula resposta imune inespecífica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Exsypet",
+    "Classe Terapeutica": "Suplemento veterinário",
+    "Indicação": "Saúde intestinal, suporte imunológico",
+    "Mecanismo de Ação": "Probióticos e prebióticos → equilíbrio da microbiota",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ezetimiba",
+    "Classe Terapeutica": "Hipolipemiante",
+    "Indicação": "Dislipidemias",
+    "Mecanismo de Ação": "Inibe absorção intestinal de colesterol",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Enxofre",
+    "Classe Terapeutica": "Suplemento mineral / Dermatológico",
+    "Indicação": "Dermatites, suporte articular",
+    "Mecanismo de Ação": "Participa da síntese de colágeno e queratina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fluconazol",
+    "Classe Terapeutica": "Antifúngico sistêmico",
+    "Indicação": "Dermatofitoses, candidíase, micoses sistêmicas",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "FC Pet",
+    "Classe Terapeutica": "Suplemento veterinário",
+    "Indicação": "Saúde intestinal, suporte imunológico",
+    "Mecanismo de Ação": "Probióticos e prebióticos → equilíbrio da microbiota",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Firocoxibe",
+    "Classe Terapeutica": "AINE (anti-inflamatório não esteroide)",
+    "Indicação": "Dor e inflamação em osteoartrite, pós-operatório",
+    "Mecanismo de Ação": "Inibe COX-2 → reduz prostaglandinas inflamatórias",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Furosemida",
+    "Classe Terapeutica": "Diurético de alça",
+    "Indicação": "ICC, edema, ascite",
+    "Mecanismo de Ação": "Inibe reabsorção de Na⁺, K⁺ e Cl⁻ na alça de Henle",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fanciclovir",
+    "Classe Terapeutica": "Antiviral",
+    "Indicação": "Infecções por herpesvírus felino",
+    "Mecanismo de Ação": "Inibe DNA polimerase viral",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fenofibrato",
+    "Classe Terapeutica": "Hipolipemiante (fibrato)",
+    "Indicação": "Dislipidemias, hipertrigliceridemia",
+    "Mecanismo de Ação": "Ativa PPAR-α → aumenta oxidação de ácidos graxos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Febantel",
+    "Classe Terapeutica": "Anti-helmíntico (benzimidazólico)",
+    "Indicação": "Nematódeos, cestódeos, trematódeos, giárdia",
+    "Mecanismo de Ação": "Inibe polimerização da tubulina → morte do parasita",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fluocinolona acetinado",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites graves, inflamações cutâneas",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fibras de crustáceos",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Obesidade, suporte intestinal",
+    "Mecanismo de Ação": "Polissacarídeo que reduz absorção de gorduras",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Famotidina",
+    "Classe Terapeutica": "Antiácido (antagonista H2)",
+    "Indicação": "Gastrite, úlceras gástricas, refluxo",
+    "Mecanismo de Ação": "Bloqueia receptores H2 da histamina → reduz secreção ácida",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Flunarizina",
+    "Classe Terapeutica": "Anti-hipertensivo / Neurológico",
+    "Indicação": "Distúrbios vestibulares, enxaqueca",
+    "Mecanismo de Ação": "Bloqueio de canais de cálcio",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ferro quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Anemia ferropriva",
+    "Mecanismo de Ação": "Fornece ferro ligado a aminoácidos → alta biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fosfatidil colina",
+    "Classe Terapeutica": "Suplemento nutricional / Neuroprotetor",
+    "Indicação": "Suporte cognitivo, função hepática",
+    "Mecanismo de Ação": "Precursor da acetilcolina e fosfolipídios de membrana",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fos",
+    "Classe Terapeutica": "Suplemento nutricional / Prebiótico",
+    "Indicação": "Saúde intestinal, disbiose, suporte imunológico",
+    "Mecanismo de Ação": "Estimula crescimento de bactérias benéficas no cólon",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Fósforo Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de fósforo, suporte ósseo",
+    "Mecanismo de Ação": "Fornece fósforo ligado a aminoácidos → alta biodisponibilidad",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Garcinia",
+    "Classe Terapeutica": "Fitoterápico",
+    "Indicação": "Obesidade, controle de apetite",
+    "Mecanismo de Ação": "Rico em ácido hidroxicítrico → reduz lipogênese",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Gamma Oryzanol",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Suporte hormonal, antioxidante",
+    "Mecanismo de Ação": "Derivado do óleo de arroz → modula lipídios e hormônios",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Glutamato Monossódico",
+    "Classe Terapeutica": "Excipiente / Flavorizante",
+    "Indicação": "Melhora palatabilidade de rações",
+    "Mecanismo de Ação": "Ativa receptores de sabor umami",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ginseng",
+    "Classe Terapeutica": "Fitoterápico / Adaptógeno",
+    "Indicação": "Fadiga, suporte imunológico, performance",
+    "Mecanismo de Ação": "Ginsenosídeos → modulam resposta imune e energética",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Glucosamina",
+    "Classe Terapeutica": "Suplemento nutricional / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Estimula síntese de matriz cartilaginosa",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Glycoxil Pet",
+    "Classe Terapeutica": "Suplemento veterinário",
+    "Indicação": "Suporte hepático, antioxidante",
+    "Mecanismo de Ação": "Combinação de aminoácidos e antioxidantes",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Gluconato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiências minerais",
+    "Mecanismo de Ação": "Fornece íons minerais em forma de sal solúvel",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "GABA (Ácido gama-aminobutírico)",
+    "Classe Terapeutica": "Suplemento nutricional / Neuromodulador",
+    "Indicação": "Ansiedade, suporte neurológico",
+    "Mecanismo de Ação": "Neurotransmissor inibitório → reduz excitabilidade neuronal",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ginkgo Biloba",
+    "Classe Terapeutica": "Fitoterápico / Neuroprotetor",
+    "Indicação": "Suporte cognitivo, circulação periférica",
+    "Mecanismo de Ação": "Flavonoides → efeito antioxidante e vasodilatador",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ganoderma",
+    "Classe Terapeutica": "Fitoterápico / Imunomodulador",
+    "Indicação": "Suporte imunológico, oncologia veterinária",
+    "Mecanismo de Ação": "Polissacarídeos → estimulam resposta imune",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hidrocortisona aceponato",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites leves a moderadas",
+    "Mecanismo de Ação": "Modula expressão gênica → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hidrocortisona Acetato",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites, inflamações cutâneas",
+    "Mecanismo de Ação": "Modula expressão gênica → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hidroclorotiazida",
+    "Classe Terapeutica": "Diurético tiazídico",
+    "Indicação": "Hipertensão, ICC, edemas",
+    "Mecanismo de Ação": "Inibe reabsorção de Na⁺ e Cl⁻ no túbulo distal",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hisperidina",
+    "Classe Terapeutica": "Flavonoide / Antioxidante",
+    "Indicação": "Suporte vascular, antioxidante",
+    "Mecanismo de Ação": "Modula permeabilidade capilar e reduz radicais livres",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hidroximetilbutirato (HMB)",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Suporte muscular, caquexia",
+    "Mecanismo de Ação": "Metabólito da leucina → estimula síntese proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Hidroxipropilmetilcelulose (HPMC)",
+    "Classe Terapeutica": "Excipiente / Espessante",
+    "Indicação": "Veículo em formulações, estabilizante",
+    "Mecanismo de Ação": "Polímero hidrossolúvel que aumenta viscosidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Imunel",
+    "Classe Terapeutica": "Suplemento veterinário / Imunomodulador",
+    "Indicação": "Suporte imunológico, prevenção de doenças",
+    "Mecanismo de Ação": "Mistura de nutrientes e imunomoduladores",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Iodo quelado",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de iodo, suporte tireoidiano",
+    "Mecanismo de Ação": "Fornece íons I⁻ quelados → alta biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Isoflavona",
+    "Classe Terapeutica": "Fitoterápico / Fitoestrogênio",
+    "Indicação": "Suporte hormonal, menopausa, antioxidante",
+    "Mecanismo de Ação": "Estruturas semelhantes ao estrogênio → modulam receptores",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "InSea²® (algas marinhas)",
+    "Classe Terapeutica": "Fitoterápico / Metabólico",
+    "Indicação": "Obesidade, resistência insulínica",
+    "Mecanismo de Ação": "Inibe enzimas digestivas de carboidratos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Itraconazol bis pás Susp",
+    "Classe Terapeutica": "Antifúngico sistêmico",
+    "Indicação": "Dermatofitoses, micoses sistêmicas",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Itraconazol Pelets",
+    "Classe Terapeutica": "Antifúngico sistêmico",
+    "Indicação": "Dermatofitoses, micoses sistêmicas",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Inositol",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Ansiedade, suporte neurológico, resistência insulínica",
+    "Mecanismo de Ação": "Modula sinalização celular e neurotransmissores",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Irgasan DP300 (Triclosan)",
+    "Classe Terapeutica": "Antisséptico / Antibacteriano",
+    "Indicação": "Infecções cutâneas, higiene oral",
+    "Mecanismo de Ação": "Inibe síntese de ácidos graxos bacterianos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Iodeto de potássio",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de iodo, suporte tireoidiano",
+    "Mecanismo de Ação": "Fornece íons I⁻ → essencial para síntese de hormônios tireoidianos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Iodo Kelp",
+    "Classe Terapeutica": "Fitoterápico / Suplemento mineral",
+    "Indicação": "Suporte tireoidiano, nutrição",
+    "Mecanismo de Ação": "Fonte natural de iodo e minerais",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ilunicitinib",
+    "Classe Terapeutica": "Imunomodulador / Terapia alvo",
+    "Indicação": "Dermatite atópica canina",
+    "Mecanismo de Ação": "Inibidor seletivo de JAK1 → bloqueia sinalização de citocinas inflamatórias",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L theanina",
+    "Classe Terapeutica": "Suplemento nutricional / Neuromodulador",
+    "Indicação": "Ansiedade, estresse, suporte cognitivo",
+    "Mecanismo de Ação": "Modula neurotransmissores (aumenta GABA e serotonina)",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L leucina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte muscular, caquexia",
+    "Mecanismo de Ação": "Estimula síntese proteica via mTOR",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L treonina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte nutricional, síntese proteica",
+    "Mecanismo de Ação": "Participa da formação de colágeno e elastina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L Triptofano",
+    "Classe Terapeutica": "Aminoácido essencial / Neuromodulador",
+    "Indicação": "Ansiedade, distúrbios do sono",
+    "Mecanismo de Ação": "Precursor da serotonina e melatonina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L metionina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte hepático, prevenção de cálculos urinários",
+    "Mecanismo de Ação": "Participa da síntese proteica e metabolismo hepático",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L valina",
+    "Classe Terapeutica": "Aminoácido essencial (BCAA)",
+    "Indicação": "Suporte muscular, caquexia",
+    "Mecanismo de Ação": "Estimula síntese proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L isoleucina",
+    "Classe Terapeutica": "Aminoácido essencial (BCAA)",
+    "Indicação": "Suporte muscular, caquexia",
+    "Mecanismo de Ação": "Estimula síntese proteica e metabolismo energético",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L cisteína",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte antioxidante, saúde capilar e pele",
+    "Mecanismo de Ação": "Participa da síntese de glutationa e queratina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L ornitina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte hepático, detoxificação de amônia",
+    "Mecanismo de Ação": "Participa do ciclo da ureia",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L arginina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte cardiovascular, cicatrização",
+    "Mecanismo de Ação": "Precursor do óxido nítrico → vasodilatação",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L cisteína",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte antioxidante, saúde capilar e pele",
+    "Mecanismo de Ação": "Participa da síntese de glutationa e queratina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L carnitina",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Obesidade, cardiopatias, suporte muscular",
+    "Mecanismo de Ação": "Transporta ácidos graxos para mitocôndrias",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L Carnosina",
+    "Classe Terapeutica": "Suplemento antioxidante",
+    "Indicação": "Suporte cognitivo, envelhecimento",
+    "Mecanismo de Ação": "Dipeptídeo antioxidante → protege proteínas e membranas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L Glutamina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Saúde intestinal, suporte imunológico",
+    "Mecanismo de Ação": "Fonte energética para enterócitos e linfócitos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L prolina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte articular, síntese de colágeno",
+    "Mecanismo de Ação": "Participa da formação de colágeno e tecidos conjuntivos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L tirosina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte neurológico, estresse",
+    "Mecanismo de Ação": "Precursor de dopamina, noradrenalina e hormônios tireoidianos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L citrulina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte cardiovascular, fadiga",
+    "Mecanismo de Ação": "Precursor da arginina → aumenta óxido nítrico",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L taurina",
+    "Classe Terapeutica": "Aminoácido essencial (gatos)",
+    "Indicação": "Cardiopatias, suporte ocular",
+    "Mecanismo de Ação": "Participa da função cardíaca e visual",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L glicina",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte neurológico, calmante",
+    "Mecanismo de Ação": "Neurotransmissor inibitório → reduz excitabilidade neuronal",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L Lisina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Infecções por herpesvírus felino",
+    "Mecanismo de Ação": "Compete com arginina → reduz replicação viral",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L histidina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte hematológico, síntese proteica",
+    "Mecanismo de Ação": "Precursor da histamina → participa da resposta imune",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L fenilalanina",
+    "Classe Terapeutica": "Aminoácido essencial",
+    "Indicação": "Suporte neurológico, dor crônica",
+    "Mecanismo de Ação": "Precursor de dopamina, noradrenalina e adrenalina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "L ácido aspártico",
+    "Classe Terapeutica": "Aminoácido",
+    "Indicação": "Suporte energético, metabolismo",
+    "Mecanismo de Ação": "Participa do ciclo da ureia e síntese proteica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Luteolina",
+    "Classe Terapeutica": "Flavonoide / Antioxidante",
+    "Indicação": "Inflamações crônicas, suporte imunológico",
+    "Mecanismo de Ação": "Inibe vias inflamatórias (NF-κB)",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Lairil sulfato",
+    "Classe Terapeutica": "Excipiente / Surfactante",
+    "Indicação": "Veículo em formulações tópicas e shampoos",
+    "Mecanismo de Ação": "Reduz tensão superficial → ação detergente",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Luteína",
+    "Classe Terapeutica": "Carotenoide / Antioxidante",
+    "Indicação": "Saúde ocular, suporte imunológico",
+    "Mecanismo de Ação": "Neutraliza radicais livres na retina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Lecitina de soja",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Suporte hepático, cognitivo",
+    "Mecanismo de Ação": "Fonte de fosfatidilcolina → precursor da acetilcolina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Levedura cerveja",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Saúde intestinal, suporte imunológico",
+    "Mecanismo de Ação": "Fonte de vitaminas do complexo B e proteínas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Lactoferrina",
+    "Classe Terapeutica": "Suplemento proteico / Imunomodulador",
+    "Indicação": "Infecções, suporte imunológico, saúde intestinal",
+    "Mecanismo de Ação": "Glicoproteína que se liga ao ferro e modula resposta imune",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Moxidectina",
+    "Classe Terapeutica": "Antiparasitário (endectocida)",
+    "Indicação": "Nematódeos, dirofilariose, ectoparasitas",
+    "Mecanismo de Ação": "Agonista dos canais de cloro mediados por glutamato → paralisia do parasita",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Maropitant (Cerenia®)",
+    "Classe Terapeutica": "Antiemético",
+    "Indicação": "Vômitos agudos, cinetose",
+    "Mecanismo de Ação": "Antagonista dos receptores NK1 da substância P",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Manganês Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de manganês, suporte ósseo",
+    "Mecanismo de Ação": "Fornece íons Mn²⁺ quelados → alta biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Magnésio Quelato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de magnésio, suporte neuromuscular",
+    "Mecanismo de Ação": "Fornece íons Mg²⁺ quelados → alta biodisponibilidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Mucosave",
+    "Classe Terapeutica": "Fitoterápico / Gastroprotetor",
+    "Indicação": "Gastrite, refluxo, úlceras gástricas",
+    "Mecanismo de Ação": "Complexo de extratos vegetais que protegem mucosa gástrica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Molibdênio",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de molibdênio, suporte enzimático",
+    "Mecanismo de Ação": "Cofator de enzimas do metabolismo de purinas e aminoácidos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Minoxidil",
+    "Classe Terapeutica": "Vasodilatador / Dermatológico",
+    "Indicação": "Alopecia, suporte capilar",
+    "Mecanismo de Ação": "Abre canais de potássio → vasodilatação e estímulo folicular",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Miconazol",
+    "Classe Terapeutica": "Antifúngico",
+    "Indicação": "Dermatofitoses, candidíase cutânea",
+    "Mecanismo de Ação": "Inibe síntese de ergosterol na membrana fúngica",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "MSM (Metilsulfonilmetano)",
+    "Classe Terapeutica": "Suplemento nutricional / Anti-inflamatório",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Fonte de enxofre orgânico → participa da síntese de colágeno",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Metabissulfito",
+    "Classe Terapeutica": "Conservante / Antioxidante",
+    "Indicação": "Estabilização de formulações",
+    "Mecanismo de Ação": "Agente redutor que previne oxidação",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Mentol",
+    "Classe Terapeutica": "Fitoterápico / Analgésico tópico",
+    "Indicação": "Prurido, irritações cutâneas, suporte respiratório",
+    "Mecanismo de Ação": "Ativa receptores TRPM8 → sensação refrescante",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Morosil® (Extrato de Laranja Moro)",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Obesidade, suporte metabólico",
+    "Mecanismo de Ação": "Rico em antocianinas → modula metabolismo lipídico",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Betaglucana Macrogard",
+    "Classe Terapeutica": "Imunomodulador / Suplemento",
+    "Indicação": "Suporte imunológico, prevenção de infecções",
+    "Mecanismo de Ação": "Polissacarídeos que ativam macrófagos e células NK",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Metformina",
+    "Classe Terapeutica": "Antidiabético oral",
+    "Indicação": "Diabetes mellitus tipo 2, resistência insulínica",
+    "Mecanismo de Ação": "Reduz produção hepática de glicose e aumenta sensibilidade à insulina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Metimazol",
+    "Classe Terapeutica": "Antitireoidiano",
+    "Indicação": "Hipertireoidismo felino",
+    "Mecanismo de Ação": "Inibe síntese de hormônios tireoidianos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Mesalazina",
+    "Classe Terapeutica": "Anti-inflamatório intestinal",
+    "Indicação": "Doença inflamatória intestinal",
+    "Mecanismo de Ação": "Inibe síntese de prostaglandinas e leucotrienos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Magnésio Malato",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Fadiga, suporte muscular",
+    "Mecanismo de Ação": "Combinação de magnésio + ácido málico → melhora metabolismo energético",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Move",
+    "Classe Terapeutica": "Suplemento veterinário / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Combinação de glucosamina, condroitina e MSM",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Montelucaste de sódio",
+    "Classe Terapeutica": "Antileucotrieno",
+    "Indicação": "Asma, alergias respiratórias",
+    "Mecanismo de Ação": "Bloqueia receptores de leucotrienos → reduz broncoconstrição",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Mometasona Furoato",
+    "Classe Terapeutica": "Corticoide tópico",
+    "Indicação": "Dermatites, inflamações cutâneas",
+    "Mecanismo de Ação": "Modula expressão gênica → potente efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Maltodextrina",
+    "Classe Terapeutica": "Carboidrato / Excipiente",
+    "Indicação": "Fonte energética rápida, veículo em formulações",
+    "Mecanismo de Ação": "Polissacarídeo de rápida absorção",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Moringa",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Suporte nutricional, antioxidante",
+    "Mecanismo de Ação": "Rica em polifenóis e vitaminas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "N acetil L cisteína",
+    "Classe Terapeutica": "Suplemento antioxidante / Mucolítico",
+    "Indicação": "Doenças respiratórias, suporte hepático",
+    "Mecanismo de Ação": "Precursor da glutationa → antioxidante e mucolítico",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Nistatina",
+    "Classe Terapeutica": "Antifúngico",
+    "Indicação": "Candidíase oral e intestinal",
+    "Mecanismo de Ação": "Liga-se a ergosterol da membrana fúngica → morte celular",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Nicotinamida (Vitamina B3)",
+    "Classe Terapeutica": "Suplemento vitamínico",
+    "Indicação": "Suporte dermatológico, metabolismo energético",
+    "Mecanismo de Ação": "Precursor de NAD⁺/NADP⁺ → essencial para reações metabólicas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Nutricolin® (Ácido ortosilícico estabilizado)",
+    "Classe Terapeutica": "Suplemento nutricional",
+    "Indicação": "Saúde da pele, unhas e articulações",
+    "Mecanismo de Ação": "Fonte de silício biodisponível → estimula síntese de colágeno",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Natoquinase",
+    "Classe Terapeutica": "Enzima / Fitoterápico",
+    "Indicação": "Suporte cardiovascular, trombose",
+    "Mecanismo de Ação": "Enzima derivada do natto que degrada fibrina",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Narigenina",
+    "Classe Terapeutica": "Flavonoide / Antioxidante",
+    "Indicação": "Suporte metabólico, inflamações",
+    "Mecanismo de Ação": "Modula vias antioxidantes e inflamatórias",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "N-Acetil-D-Glucosamina",
+    "Classe Terapeutica": "Suplemento nutricional / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Precursor da síntese de glicosaminoglicanos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Osteopet®",
+    "Classe Terapeutica": "Suplemento veterinário / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Combinação de glucosamina, condroitina e colágeno",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ovopet® (membrana de ovo)",
+    "Classe Terapeutica": "Suplemento nutricional / Condroprotetor",
+    "Indicação": "Osteoartrite, suporte articular",
+    "Mecanismo de Ação": "Rico em colágeno, elastina e glicosaminoglicanos",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Óxido de zinco",
+    "Classe Terapeutica": "Mineral / Dermatológico",
+    "Indicação": "Dermatites, cicatrização",
+    "Mecanismo de Ação": "Ação adstringente e protetora da pele",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Omeprazol Pelets",
+    "Classe Terapeutica": "Antiácido / Inibidor da bomba de prótons",
+    "Indicação": "Gastrite, úlceras gástricas, refluxo",
+    "Mecanismo de Ação": "Inibe H⁺/K⁺ ATPase gástrica → reduz secreção ácida",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Óxido de magnésio",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Deficiência de magnésio, suporte neuromuscular",
+    "Mecanismo de Ação": "Fonte de Mg²⁺ → participa de reações enzimáticas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ômega 3 (EPA/DHA)",
+    "Classe Terapeutica": "Suplemento nutricional / Anti-inflamatório",
+    "Indicação": "Dermatites, osteoartrite, suporte cognitivo",
+    "Mecanismo de Ação": "Modula síntese de eicosanoides → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Oxibendazol",
+    "Classe Terapeutica": "Antiparasitário (benzimidazol)",
+    "Indicação": "Nematódeos gastrointestinais",
+    "Mecanismo de Ação": "Inibe síntese de microtúbulos nos parasitas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Palmitolletanolamida (PEA)",
+    "Classe Terapeutica": "Suplemento nutricional / Anti-inflamatório",
+    "Indicação": "Dor crônica, inflamações, suporte neurológico",
+    "Mecanismo de Ação": "Modulador endocanabinoide → reduz inflamação e dor",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Psyllium Pó",
+    "Classe Terapeutica": "Fibra solúvel / Suplemento",
+    "Indicação": "Constipação, diarreia, controle glicêmico",
+    "Mecanismo de Ação": "Forma gel viscoso → regula trânsito intestinal",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Piperina Pura",
+    "Classe Terapeutica": "Fitoterápico / Bioativador",
+    "Indicação": "Aumenta biodisponibilidade de nutrientes e fármacos",
+    "Mecanismo de Ação": "Inibe enzimas hepáticas (CYP450) → melhora absorção",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Phytosphingosine",
+    "Classe Terapeutica": "Dermatológico / Lipídeo",
+    "Indicação": "Dermatites, suporte cutâneo",
+    "Mecanismo de Ação": "Componente da barreira lipídica da pele → efeito anti-inflamatório",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Pectina Cítrica",
+    "Classe Terapeutica": "Fibra solúvel / Suplemento",
+    "Indicação": "Saúde intestinal, suporte imunológico",
+    "Mecanismo de Ação": "Forma gel → regula trânsito intestinal e modula microbiota",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Pancreatina",
+    "Classe Terapeutica": "Enzima digestiva",
+    "Indicação": "Insuficiência pancreática exócrina",
+    "Mecanismo de Ação": "Mistura de lipase, amilase e protease → auxilia digestão",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Resveratrol",
+    "Classe Terapeutica": "Fitoterápico / Antioxidante",
+    "Indicação": "Envelhecimento, suporte cardiovascular, inflamações",
+    "Mecanismo de Ação": "Polifenol que ativa vias antioxidantes (SIRT1)",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Spirulina",
+    "Classe Terapeutica": "Alga / Suplemento nutricional",
+    "Indicação": "Suporte imunológico, nutrição, energia",
+    "Mecanismo de Ação": "Fonte de proteínas, vitaminas e minerais",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Silimarina (Cardo-mariano)",
+    "Classe Terapeutica": "Fitoterápico / Hepatoprotetor",
+    "Indicação": "Doenças hepáticas, intoxicações",
+    "Mecanismo de Ação": "Flavonolignanas que estabilizam membranas hepáticas e aumentam síntese de proteínas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Tribulus Terrestris Extrato Seco 40%",
+    "Classe Terapeutica": "Fitoterápico / Suplemento",
+    "Indicação": "Suporte hormonal, energia, libido",
+    "Mecanismo de Ação": "Estimula liberação de testosterona e aumenta vitalidade",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Uva Ursi Extrato Seco",
+    "Classe Terapeutica": "Fitoterápico / Urinário",
+    "Indicação": "Infecções urinárias, suporte renal",
+    "Mecanismo de Ação": "Rico em arbutina → efeito antimicrobiano urinário",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Uxi Amarelo Extrato Seco",
+    "Classe Terapeutica": "Fitoterápico / Anti-inflamatório",
+    "Indicação": "Inflamações ginecológicas, suporte imunológico",
+    "Mecanismo de Ação": "Rico em taninos e flavonoides → ação anti-inflamatória",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Vanádio Quelado",
+    "Classe Terapeutica": "Suplemento mineral",
+    "Indicação": "Suporte metabólico, resistência insulínica",
+    "Mecanismo de Ação": "Atua como cofator em enzimas do metabolismo da glicose",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Ubiquinol (Coenzima Q10 reduzida)",
+    "Classe Terapeutica": "Suplemento antioxidante",
+    "Indicação": "Cardiopatias, envelhecimento, suporte energético",
+    "Mecanismo de Ação": "Participa da cadeia respiratória mitocondrial",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Valeriana Extrato Seco",
+    "Classe Terapeutica": "Fitoterápico / Calmante",
+    "Indicação": "Ansiedade, insônia, estresse",
+    "Mecanismo de Ação": "Modula receptores GABA → efeito sedativo leve",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+  {
+    "Nome de Ativos": "Zeólita",
+    "Classe Terapeutica": "Mineral / Detoxificante",
+    "Indicação": "Suporte intestinal, adsorção de toxinas",
+    "Mecanismo de Ação": "Estrutura microporosa que adsorve metais pesados e toxinas",
+    "Formas Farmacêuticas": "",
+    "Observações": ""
+  },
+{    "Nome de Ativos": "SAME",
+    "Sinonimos": ["Adeosil", "S-adenosil-L-metionina", "SAMe"],
+    "Classe Terapeutica": "Suplemento / Antioxidante",
+    "Indicação": "Suporte hepático, depressão, osteoartrite",
+    "Mecanismo de Ação": "Participa de reações de metilação e síntese de neurotransmissores",
+    "Formas Farmacêuticas": "Cápsulas, Comprimidos",
+    "Observações": "Sensível à umidade, armazenar em frasco bem vedado"
+  }
+]
