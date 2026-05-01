@@ -201,18 +201,21 @@ const firebaseConfig = {
       <button onclick="excluirAtivo('${ativo.nome}')">Excluir</button>
     `;
   }
-
-  function excluirAtivo(nome) {
-    if (confirm(`Tem certeza que deseja excluir o ativo "${nome}"?`)) {
-      ativos = ativos.filter(a => a.nome !== nome);
-      localStorage.setItem("ativos", JSON.stringify(ativos));
-      atualizarLista();
-      limpar();
-      alert("Ativo excluído com sucesso!");
-    } else {
-      alert("Exclusão cancelada.");
-    }
+function excluirAtivo(nome) {
+  if (confirm(`Tem certeza que deseja excluir o ativo "${nome}"?`)) {
+    db.collection("ativos").doc(nome).delete()
+      .then(() => {
+        alert("Ativo excluído com sucesso!");
+        document.getElementById("resultado").innerHTML = "";
+      })
+      .catch(error => {
+        alert("Erro ao excluir ativo: " + error);
+      });
+  } else {
+    alert("Exclusão cancelada.");
   }
+}
+
 let ativoEmEdicao = null;
 
 function editarAtivo(nome) {
