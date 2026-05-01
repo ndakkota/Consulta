@@ -213,25 +213,61 @@ const firebaseConfig = {
       alert("Exclusão cancelada.");
     }
   }
+let ativoEmEdicao = null;
 
-  function editarAtivo(nome) {
-    const ativo = ativos.find(a => a.nome === nome);
-    if (ativo) {
+function editarAtivo(nome) {
+  db.collection("ativos").doc(nome).get().then(doc => {
+    if (doc.exists) {
+      const ativo = doc.data();
       document.getElementById("nome").value = ativo.nome;
       document.getElementById("sinonimos").value = (ativo.sinonimos || []).join(", ");
-      document.getElementById("classe").value = ativo.classe;
-      document.getElementById("indicacao").value = ativo.indicacao;
-      document.getElementById("mecanismo").value = ativo.mecanismo;
-      document.getElementById("formas").value = ativo.formas;
-      document.getElementById("observacoes").value = ativo.observacoes;
+      document.getElementById("classe").value = ativo.classe || "";
+      document.getElementById("indicacao").value = ativo.indicacao || "";
+      document.getElementById("mecanismo").value = ativo.mecanismo || "";
+      document.getElementById("formas").value = ativo.formas || "";
+      document.getElementById("observacoes").value = ativo.observacoes || "";
+      ativoEmEdicao = nome;
+    } else {
+      alert("Ativo não encontrado para edição.");
     }
-  }
+  });
+}
 
-  function limpar() {
-    document.getElementById("busca").value = "";
-    document.getElementById("resultado").innerHTML = "";
-  }
+function cadastrarAtivo() {
+  const nome = document.getElementById("nome").value;
+  const sinonimos = (document.getElementById("sinonimos").value || "")
+    .split(",")
+    .map(s => s.trim())
+    .filter(s => s);
 
+  const ativo = {
+    nome: nome,
+    sinonimos: sinonimos,
+    classe: document.getElementById("classe").value,
+    indicacao: document.getElementById("indicacao").value,
+    mecanismo: document.getElementById("mecanismo").value,
+    formas: document.getElementById("formas").value,
+    observacoes: document.getElementById("observacoes").value,
+    nomeNormalizado: normalizar(nome),
+    sinonimosNormalizados: sinonimos.map(s => normalizar(s))
+  };
+
+  const docRef = db.collection("ativos").doc(nome);
+
+  docRef.set(ativo)
+    .then(() => {
+      if (ativoEmEdicao) {
+        alert("Ativo atualizado com sucesso!");
+        ativoEmEdicao = null;
+      } else {
+        alert("Ativo cadastrado com sucesso!");
+      }
+      document.querySelector("form").reset();
+    })
+    .catch(error => {
+      alert("Erro ao salvar ativo: " + error);
+    });
+}
   // 🔹 Corrigido: chama buscarAtivo()
   document.getElementById("formBusca").addEventListener("submit", function(e) {
     e.preventDefault();
