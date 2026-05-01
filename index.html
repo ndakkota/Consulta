@@ -233,6 +233,17 @@ function editarAtivo(nome) {
   });
 }
 
+    function limparBusca() {
+      document.getElementById("busca").value = "";
+      document.getElementById("resultado").innerHTML = "";
+    }
+
+    // Atalho pelo teclado ESC
+    document.addEventListener("keydown", function(event) {
+      if (event.key === "Escape") {
+        limparBusca();
+      }
+    });
 function cadastrarAtivo() {
   const nome = document.getElementById("nome").value;
   const sinonimos = (document.getElementById("sinonimos").value || "")
