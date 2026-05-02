@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Consulta de Ativos 💊</title>
+  <title>Pharma Base - Brenda Novais 💊</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- SDKs Firebase v8 -->
   <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
@@ -81,7 +81,7 @@
       left: 0;
       width: 100%;
       text-align: center;
-      padding: 10px;
+      padding: 5px;
       color: #0078d7;
       font-weight: bold;
       background: rgba(255,255,255,0.7);
@@ -93,7 +93,7 @@
 </head>
 <body>
   <header>
-    <h1>💊 Consulta de Ativos</h1>
+    <h1>💊 PharmaAssets</h1>
   </header>
   <main>
     <!-- Busca -->
@@ -119,11 +119,11 @@
     </form>
   </main>
   <footer>
-    @ndakkota
+    2026 - Desenvolvido por @ndakkota
   </footer>
 
  <script>
-    // 🔹 Configuração do Firebase (copie do Console → Configurações do projeto → Suas apps → Web)
+    // Configuração do Firebase 
 const firebaseConfig = {
   apiKey: "AIzaSyDKthFo4SkRxAteYdrRMc4h6HFom6XOZa0",
   authDomain: "consultadeativos.firebaseapp.com",
@@ -162,7 +162,7 @@ const firebaseConfig = {
     });
   }
 
-  // 🔹 Função de busca por nome e sinônimo
+  // Função de busca por nome e sinônimo
   function buscarAtivo() {
     const termo = document.getElementById("busca").value;
 
