@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Pharma Base - Brenda Novais 💊</title>
+  <title>PharmaAssets - Brenda Novais 💊</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- SDKs Firebase v8 -->
   <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
@@ -18,8 +18,8 @@
       background-size: cover;
     }
     header {
-      background: linear-gradient(90deg, rgba(0,120,215,0.6), rgba(0,170,255,0.6));
-      color: white;
+      background: linear-gradient(90deg, #FEE5EB, #b560ee);
+      color: #FEE5EB;
       padding: 20px;
       text-align: center;
       box-shadow: 0 4px 8px rgba(0,0,0,0.3);
@@ -30,7 +30,7 @@
     main {
       max-width: 900px;
       margin: 40px auto;
-      background: rgba(255,255,255,0.9);
+      background: #FEE5EB;
       padding: 20px;
       border-radius: 12px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.2);
@@ -49,20 +49,20 @@
       border-radius: 6px;
       font-size: 16px;
     }
+ /* Botões delicados em lilás */
     button {
-      padding: 12px 20px;
-      background: linear-gradient(90deg, #0078d7, #00aaff);
-      color: white;
+      margin: 5px;
+      padding: 8px 12px;
+      cursor: pointer;
       border: none;
       border-radius: 6px;
-      cursor: pointer;
-      font-size: 16px;
-      transition: all 0.3s ease;
+      background-color: #EADEF2; /* lilás */
+      color: #4A4A4A;
+      transition: background-color 0.3s;
     }
+
     button:hover {
-      transform: scale(1.05);
-      background: linear-gradient(90deg, #005a9e, #0088cc);
-      box-shadow: 0 0 10px rgba(0,120,215,0.6);
+      background-color: #d0c3f0; /* lilás mais escuro no hover */
     }
     .resultado {
       margin-top: 20px;
@@ -73,7 +73,7 @@
     }
     .campo {
       font-weight: bold;
-      color: #0078d7;
+      color: #d66abf;
     }
     footer {
       position: fixed;
@@ -82,9 +82,9 @@
       width: 100%;
       text-align: center;
       padding: 5px;
-      color: #0078d7;
+      color: #fa6487;
       font-weight: bold;
-      background: rgba(255,255,255,0.7);
+      background: #FEE5EB;
       backdrop-filter: blur(5px);
       font-size: 0.7em;
       -webkit-backdrop-filter: blur(5px);
