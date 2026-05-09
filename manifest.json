@@ -1,6 +1,6 @@
 {
   "name": "PharmaAssets",
-  "short_name": "Ativos",
+  "short_name": "PharmaAssets",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
